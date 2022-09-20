@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 A student at SCNU
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning basis of computer engineering, `Node`,the Deeper Principle Knowledge of `React` and Front-end engineering. 
 - 🍗 Working hard to be a good front-end developer
 - 🏠 [juejin](https://juejin.cn/user/2164280112722760)·[yuque](https://www.yuque.com/qzhou)·[leetcode](https://leetcode.cn/u/okkjoo/)
 
