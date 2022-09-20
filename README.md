@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 A student at SCNU
+- 🌱 I’m currently learning 
+- 🍗 Working hard to be a good front-end developer
+- 🏠 [juejin](https://juejin.cn/user/2164280112722760)·[yuque](https://www.yuque.com/qzhou)·[leetcode](https://leetcode.cn/u/okkjoo/)
+
+
+#### status
+![GithubStats](https://github-readme-stats.vercel.app/api?username=okkjoo&show_icons=true&theme=dark&count_private=true)
+
+#### language
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkjoo&theme=dark&layout=compact)
