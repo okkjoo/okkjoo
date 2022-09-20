@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=okkjoo&show_icons=true&theme=dark&count_private=true)
 
 #### language
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkjoo&theme=dark&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkjoo&theme=dark&layout=compact&count_private=true=false)
