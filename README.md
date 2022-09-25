@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - 🔭 A student at SCNU
 - 🌱 I’m currently learning basis of computer engineering, Node, the Deeper Principle Knowledge of React and Front-end engineering. 
 - 🍗 Working hard to be a good front-end developer
@@ -22,6 +23,8 @@ Here are some ideas to get you started:
 
 
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=okkjoo&show_icons=true&theme=tokyonight&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkjoo&theme=dark&layout=compact&count_private=true=false)
 
+<!--
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okkjoo&theme=dark&layout=compact&count_private=true=false)
+-->
 
